@@ -2,4 +2,4 @@
 ###### project manager
 
 ## Contacts
-![Skype](https://image.flaticon.com/icons/svg/220/220801.svg) dima_brikach
+![Skype](http://screenshot.ru/upload/images/2016/01/06/skypee41e8.jpg) dima_brikach
