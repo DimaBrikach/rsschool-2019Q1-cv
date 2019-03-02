@@ -2,7 +2,7 @@
 ###### project manager
 
 ## Contacts
-![Skype](https://yadi.sk/i/tQHUfz5fy363aA) dima_brikach   ![E-mail](https://yadi.sk/i/KIj6pIdw4WnuHA) dima-brikach@yandex.ru   ![phone](https://yadi.sk/i/XRG6fQ_8z38lUg) +375-33-389-06-16
+![Skype](https://png.icons8.com/skype/win10/32) dima_brikach   ![E-mail](http://company.certotv.com/wp-content/uploads/2011/05/iconmonstr-email-10-icon-32.png) dima-brikach@yandex.ru   ![phone](https://equitailor.dk/CustomerData/Files/Images/Archive/2-billeder/telefon_110.png) +375-33-389-06-16
 ## Summary
 * **The main aim** is to get the knowledge and practical experience in front-end.
 * Another important goal is to  improve my own technical background.
